@@ -1,0 +1,47 @@
+[
+	{
+		"caption": "Preferences",
+		"mnemonic": "n",
+		"id": "preferences",
+		"children":
+		[
+			{
+				"caption": "Package Settings",
+				"mnemonic": "P",
+				"id": "package-settings",
+				"children":
+				[
+					{
+						"caption": "Sublime RTFM",
+						"children":
+						[
+							{
+								"command": "open_file",
+								"args": {"file": "${packages}/Sublime-RTFM/Sublime RTFM.sublime-settings"},
+								"caption": "Settings - Default"
+							},
+							{
+								"command": "open_file",
+								"args": {"file": "${packages}/User/Sublime RTFM.sublime-settings"},
+								"caption": "Settings – User"
+							},
+
+							{ "caption": "-" },
+
+							{
+								"command": "open_file",
+								"args": {"file": "${packages}/Sublime-RTFM/Default.sublime-keymap"},
+								"caption": "Key Bindings - Default"
+							},
+							{
+								"command": "open_file",
+								"args": {"file": "${packages}/User/Default.sublime-keymap"},
+								"caption": "Key Bindings – User"
+							}
+						]
+					}
+				]
+			}
+		]
+	}
+]

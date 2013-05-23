@@ -1,0 +1,6 @@
+[
+  { "caption": "-" },
+  { "command": "rtfm_doc", "caption": "Open Documentation" },
+  { "command": "rtfm_google", "caption": "Search On Google" },  
+  { "caption": "-", "id": "end" }
+]

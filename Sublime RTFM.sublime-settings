@@ -1,0 +1,10 @@
+{
+	//Hide Open documentation
+	"hide_open_documentation" : false,
+
+	//Hide Search on Google
+	"hide_search_on_google" : false,
+
+	//Java settings
+	"java_version" : 6 //num version or nothing for all versions
+}

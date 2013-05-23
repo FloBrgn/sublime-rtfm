@@ -1,0 +1,4 @@
+[
+  { "command": "rtfm_doc", "caption": "RTFM : Open Documentation" },
+  { "command": "rtfm_google", "caption": "RTFM : Search on Google" }
+]

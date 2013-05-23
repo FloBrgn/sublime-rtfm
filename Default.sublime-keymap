@@ -1,0 +1,4 @@
+[
+	{ "keys": ["f1"], "command": "rtfm_doc"},
+	{ "keys": ["f2"], "command": "rtfm_google"}
+]
