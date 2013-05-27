@@ -4,7 +4,7 @@ import webbrowser
 import sys
 
 def rtfmCpp(selection):
-        return "http://www.cplusplus.com/search.do?q="+word
+        return "http://www.cplusplus.com/search.do?q="+selection
 
 def rtfmJava(selection):
         if(Pref.java_version != "any"):
